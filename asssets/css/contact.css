@@ -1,0 +1,43 @@
+
+
+#Contact .main-content {
+    padding-top: 2.50rem;
+
+}
+
+
+
+.contact-text-content h2{
+    font-size: 3rem;
+     margin-top: -8rem;
+     padding-top: 4rem;
+
+}
+
+.contact-text-content {
+    font-size: 3rem;
+     margin-top: 3rem;
+
+}
+
+.contact-text-content p{
+    font-size:2rem;
+    line-height: 1.5;
+    margin-top: 2rem;
+    
+
+}
+
+    .contact-img img {
+        padding-top: 2.5rem;
+        margin-left: 4rem;
+        margin-top: 1rem;
+        max-width: 90%;
+        height: auto;
+    }
+
+
+    .contact-content-form label{
+        font-weight: bold;
+        font-size: 1rem;
+    }

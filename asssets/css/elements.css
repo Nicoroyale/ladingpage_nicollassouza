@@ -1,0 +1,62 @@
+
+
+html{
+    font-size: 62.5%;
+
+}
+
+
+body{
+    font-family: "Open Sans", sans-serif;
+    font-size:0.80rem;
+    color: var(--back-color);
+  }
+
+
+
+
+  h1{
+    font-size: 3.5rem;
+    text-transform: uppercase;
+
+}
+h2{
+    font-size: 2.0rem;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 2.0rem;
+    text-transform: uppercase;
+}
+h4{
+    font-size: 4.5rem;
+    text-transform: uppercase;
+}
+h5{
+    font-size: 4rem;
+    text-transform: uppercase;
+}
+h6{
+    font-size: 3.5rem;
+    text-transform: uppercase;
+}    
+
+.white-bg{
+    background-color: var(--border-color);
+    color: var(--back-color);
+}
+
+legend {
+    font-style: italic;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: "Montserrat", sans-serif;
+        font-style: normal;    }
